@@ -1,0 +1,214 @@
+.table, td, th {
+    border: 1px solid rgb(223, 211, 211);
+  }
+  .equip1{
+    margin-top: -14px;
+    margin-bottom: 20px;
+  }
+  .table {
+    border-collapse: collapse;
+    width: 99%;
+    align-items: center;
+    display: grid;
+    grid-template-columns: auto;
+    margin: 5px;
+    border-radius: 10px;
+  }
+  
+  td {
+    height: 50px;
+    text-align: center;
+  }
+
+  .style-table{
+    border-collapse: collapse;
+  }
+  .last-session{
+    padding: 20px;
+    flex-direction: row;
+    display: flex;
+  }
+  .para{
+    margin-left: 900px;
+    margin-right: 4px;
+    color: #636363;
+  }
+  .para1{
+    text-align: right;
+    margin-right: 8px;
+  
+  }
+  .toggle{
+    color: rgb(24, 24, 110);
+    width:40px;
+    font-size:27px;
+    text-align: end;
+    cursor: pointer;
+    margin-right: 8px;
+    margin-bottom: -8px;
+  }
+   .add{
+    color: rgb(24, 24, 110);
+    width:40px;
+    font-size:32px;
+    cursor: pointer;
+    margin-right: -6px;
+    margin-bottom: -9px;
+    border-radius: 5px ;
+    
+  }
+  .filter{
+    
+    background-color: white;
+    border: 1px solid;
+    color:rgb(26, 26, 122);
+    padding: 1px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 8px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .density{
+    background-color: white;
+    border: 1px solid;
+    color:rgb(26, 26, 122);
+    padding: 1px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+    }
+    .trash{
+      background-color: white;
+    border: 1px solid rgb(18, 18, 80);
+    color:rgb(148, 18, 18);
+    padding: 1px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    }
+    .pencil{
+      background-color: white;
+      border: 1px solid rgb(18, 18, 80);
+      color:rgb(33, 9, 88);
+      padding: 1px 3px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 6px 5px;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    .first{
+      display: grid;
+      grid-template-columns: auto;
+    }
+  .button{
+    background-color: white;
+      border: 1px solid rgb(18, 18, 80);
+      color:rgb(33, 9, 88);
+      padding: 1px 5px;
+      text-align: center;
+      text-decoration: none;
+      display: flex;
+      border: none;
+      font-size: 16px;
+      margin: 6px 5px;
+      width: 23px;
+      margin-left: 1100px;
+      cursor: pointer;
+      margin-top: -45px;
+      margin-right: 200px;
+      gap: 5px;
+
+  }
+  .ubtn{
+    height: 25px;
+    background: #ffd382;
+    border: none;
+    border-radius: 5px;
+    color: #b47603;
+  }
+  .btn1{
+    margin-right: 20px;
+    border: none;
+    background: white;
+    
+}
+  .btn1 hr{
+    border: none;
+    width: 110%;
+    height: 3px;
+    border-radius: 10px;
+    background: darkblue;
+  }
+  .eq-btn{
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background: #b7b7d6;
+    width: 200px;
+    margin-left: 5px;
+  }
+  .equip{
+    background-color: #ebe9e9;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    gap: 50px;
+  }
+  .eq-btn1{
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background: #ebe9e9;
+    width: 200px;
+  }
+
+  .btn2{
+    height: 45px;
+    background: white;
+    border: none;
+  }
+  .btn2 hr{
+    border: 0px;
+    height: 3px;
+  }
+  
+  .table-row th{
+    background: #dfdfdf;
+  }
+  .butto{
+    border: none;
+    background: white;
+    font-size: 20px;
+    color: #636363;
+  }
+  .bt1n{
+    border: none;
+    background: #b7b7d6;
+    height: 23px;
+    border-radius: 2px;
+  }
+  .buttoo{
+    border: 1px solid rgb(126, 126, 126);
+    background: white;
+    width: 70px;
+    display: flex;
+    align-items: center;
+    height: 20px;
+  }
+
+  
